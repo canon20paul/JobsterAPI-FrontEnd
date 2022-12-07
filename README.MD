@@ -2,7 +2,7 @@
 
 #### Description
 
-The JobsterAPI is built from Modification to a copy of a JobsAPI project to Link it to a React FrontEnd pre built in a client file is a copy of jobs-api final project, just with additional data.
+The JobsterAPI is built from Modification to a copy of a JobsAPI project to Link it to a React FrontEnd pre built in a client file with additional data.
 
 #### Delieverables
 
