@@ -1,8 +1,17 @@
 # Jobster API
 
-#### Starter
+#### Description
 
-The starter is a copy of jobs-api final project, just with additional data.
+The JobsterAPI is built from Modification to a copy of a JobsAPI project to Link it to a React FrontEnd pre built in a client file is a copy of jobs-api final project, just with additional data.
+
+#### Delieverables
+
+- Profile Interface to Manage userdetails
+- Add job interface to add and remove jobs
+- Alljobs interface to search and display jobs
+- Stats interface to provide relevant job Application processes
+
+
 
 #### Setup
 
